@@ -1,0 +1,9 @@
+C:\Users\chathurangaa\documents\visual studio 2013\Projects\FolderTagCreator\FolderTagCreator\bin\Debug\FolderTagCreator.exe.config
+C:\Users\chathurangaa\documents\visual studio 2013\Projects\FolderTagCreator\FolderTagCreator\bin\Debug\FolderTagCreator.exe
+C:\Users\chathurangaa\documents\visual studio 2013\Projects\FolderTagCreator\FolderTagCreator\bin\Debug\FolderTagCreator.pdb
+C:\Users\chathurangaa\documents\visual studio 2013\Projects\FolderTagCreator\FolderTagCreator\obj\Debug\FolderTagCreator.ImageZoomer.resources
+C:\Users\chathurangaa\documents\visual studio 2013\Projects\FolderTagCreator\FolderTagCreator\obj\Debug\FolderTagCreator.MainForm.resources
+C:\Users\chathurangaa\documents\visual studio 2013\Projects\FolderTagCreator\FolderTagCreator\obj\Debug\FolderTagCreator.Properties.Resources.resources
+C:\Users\chathurangaa\documents\visual studio 2013\Projects\FolderTagCreator\FolderTagCreator\obj\Debug\FolderTagCreator.csproj.GenerateResource.Cache
+C:\Users\chathurangaa\documents\visual studio 2013\Projects\FolderTagCreator\FolderTagCreator\obj\Debug\FolderTagCreator.exe
+C:\Users\chathurangaa\documents\visual studio 2013\Projects\FolderTagCreator\FolderTagCreator\obj\Debug\FolderTagCreator.pdb
